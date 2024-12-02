@@ -1,6 +1,6 @@
-<template>
-    <div>
-      <div v-if="loading" class="text-center">Loading...</div>
+ <template>
+    <div class="container mx-auto py-12">
+      <div v-if="loading" class="text-center text-gray-600">Loading...</div>
   
       <div v-else-if="error" class="text-red-500 text-center">
         Error: {{ error }}
@@ -35,4 +35,7 @@
     },
   };
   </script>
+  
+  <style scoped>
+  </style>
   
