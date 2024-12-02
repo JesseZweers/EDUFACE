@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Software Developer",
+      "cta": "Word onze nieuwe Software Developer!",
+      "company": "Eduface",
+      "location": "Remote",
+      "hours": "40",
+      "salary": "10000"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Engineer",
+      "cta": "Sluit je aan als Frontend Engineer!",
+      "company": "Eduface",
+      "location": "Leiden",
+      "hours": "40",
+      "salary": "10000"
+    },
+    {
+      "id": 3,
+      "title": "Backend Developer",
+      "cta": "Join ons team als Backend Developer!",
+      "company": "Eduface",
+      "location": "Nijmegen",
+      "hours": "40",
+      "salary": "10000"
+    }
+]
